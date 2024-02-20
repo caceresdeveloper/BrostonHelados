@@ -20,7 +20,7 @@
     "MySQL",
     "Sequelize"
   ],
-  "author": "Juan De la torre @codigoconjuan",
+  "author": "Diego Caceres, Sergio ballen, Cristian fandiño",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
